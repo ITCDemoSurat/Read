@@ -1,13 +1,4 @@
-# Smart Attendance Project
-
-
-## Overview
-SmartAttendance Attendence solution that is ASP.NET Core based with a MS Server 2017 or higher backend database.
-
-
-## Architecture
- "N" tier/layer architecture.
-
+# Sample
 
 ## Framework/Library/Technology/Service
 
