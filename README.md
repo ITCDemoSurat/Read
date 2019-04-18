@@ -38,7 +38,7 @@ SmartAttendance Attendence solution that is ASP.NET Core based with a MS Server 
 1. Open the .sln file in Visual Studio 2017
 1. Build and run the application (F5)
 1. Browse to http://localhost:58138
-To install and run the project perform the following steps (For UI) :
+* To install and run the project perform the following steps (For UI) :
 1. Install Node.js 10.15.3 - https://nodejs.org
 1. Install the Angular CLI: npm install -g @angular/cli
 1. Open a command prompt and cd into the project's Client folder.
@@ -83,7 +83,7 @@ To install and run the project perform the following steps (For UI) :
 Path : /Cvue/CvueIntegrationAPI/api/
 
 Environment URL:
-Development :  http://10.163.90.146
-Production : http://webapps.americancareer.com
-Test : http://10.163.90.146
+* Development :  http://10.163.90.146
+* Production : http://webapps.americancareer.com
+* Test : http://10.163.90.146
 
