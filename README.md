@@ -49,7 +49,7 @@ SmartAttendance Attendence solution that is ASP.NET Core based with a MS Server 
 ### Repo Structure
 ```bash
 ├── e2e
-├── src (Source Code)
+├── src
 │   ├── app
 │   ├── assets
 │   ├── enviroments
