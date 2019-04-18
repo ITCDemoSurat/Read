@@ -80,9 +80,9 @@ SmartAttendance Attendence solution that is ASP.NET Core based with a MS Server 
 ```
 
 ### Environment 
-* ** Path : /Cvue/CvueIntegrationAPI/api/
+* Path : /Cvue/CvueIntegrationAPI/api/
 
-*  ** Environment URL:
+* Environment URL:
 > * Development :  http://10.163.90.146
 > * Production : http://webapps.americancareer.com
 > * Test : http://10.163.90.146
