@@ -20,8 +20,6 @@ SmartAttendance Attendence solution that is ASP.NET Core based with a MS Server 
 1. Typescript : 2.5.3,
 1. Angular : 5.2.11,
 1. Angular CLI: 1.7.4
-
-#### Third-Party Depenedency
 1.  @aspnet/signalr : 1.0.2
 1.	@progress/kendo-angular-dateinputs: 3.4.4
 1.	@progress/kendo-angular-intl: 1.4.1
