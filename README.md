@@ -34,17 +34,17 @@ SmartAttendance Attendence solution that is ASP.NET Core based with a MS Server 
 
 ### Installation & Run
 > * **To install and run the project perform the following steps (For API)** 
-> 1. Install ASP.NET core - https://dot.net
-> 1. Open the .sln file in Visual Studio 2017
-> 1. Build and run the application (F5)
-> 1. Browse to http://localhost:58138
+>   * Install ASP.NET core - https://dot.net
+>   * Open the .sln file in Visual Studio 2017
+>   * Build and run the application (F5)
+>   * Browse to http://localhost:58138
 > * **To install and run the project perform the following steps (For UI)**
-> * Install Node.js 10.15.3 - https://nodejs.org
-> * Install the Angular CLI: npm install -g @angular/cli
-> * Open a command prompt and cd into the project's Client folder.
-> * Run `npm install`.(For install node-package-manager).
-> * Run `npm start` or "ng serve" 
-> * Visit http://localhost:4200 in the browser
+>   * Install Node.js 10.15.3 - https://nodejs.org
+>   * Install the Angular CLI: npm install -g @angular/cli
+>   * Open a command prompt and cd into the project's Client folder.
+>   * Run `npm install`.(For install node-package-manager).
+>   * Run `npm start` or "ng serve" 
+>   * Visit http://localhost:4200 in the browser
 
 ### Repo Structure
 ```bash
