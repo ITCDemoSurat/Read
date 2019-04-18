@@ -51,23 +51,36 @@ SmartAttendance Attendence solution that is ASP.NET Core based with a MS Server 
 
 ### Repo Structure
 ```bash
+├── e2e
 ├── src
 │   ├── app
 │   │   ├── **/*.css
+│   ├── assets
+│   ├── enviroments
+│   ├── wcu
 │   ├── favicon.ico
-│   ├── images
 │   ├── index.html
-│   ├── js
-│   │   ├── **/*.js
-│   └── partials/template
+│   ├── main.ts
+│   ├── media.css
+│   ├── polyfills.ts
+│   ├── styles-kendo.css
+│   ├── styles-wcu.css
+│   ├── styles.css
+│   ├── test.ts
+│   ├── tsconfig.app.json
+│   ├── tsconfig.spec.json
+│   ├── typing.d.ts
 ├── dist (or build)
-├── node_modules
-├── bower_components (if using bower)
-├── test
-├── Gruntfile.js/gulpfile.js
-├── README.md
+├── .angular-cli.json
+├── .editorconfig
+├── karma.conf.js
+├── package-lock.json
 ├── package.json
-├── bower.json (if using bower)
-└── .gitignore
+├── protractor.conf.js
+├── README.md
+├── tsconfig.json
+├── tslint.json
+└── 
 ```
 
+### Repo Structure
