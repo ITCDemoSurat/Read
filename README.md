@@ -6,7 +6,7 @@ SmartAttendance Attendence solution that is ASP.NET Core based with a MS Server 
 
 
 ## Architecture
-SmartAttendance Attendence solution that is ASP.NET Core based with a MS Server 2017 or higher backend database.
+ "N" tier/layer architecture.
 
 
 ## Framework/Library/Technology/Service
